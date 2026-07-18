@@ -74,7 +74,7 @@ const faqs = [
     },
     {
         q: "How do I contact support?",
-        a: "You can reach our support team via email at support@averioncareers.com or through the live chat feature available on our website."
+        a: "You can reach our support team via email at career@averioncareers.com or through the live chat feature available on our website."
     },
 ]
 
@@ -201,7 +201,7 @@ export default function FAQ() {
                     transition={{ duration: 0.6, delay: 0.3 }}
                     className="text-center text-gray-400 text-sm mt-10"
                 >
-                    📩 Feel free to mail us for any enquiries — <a href="mailto:support@averioncareers.com" className="text-purple-500 hover:underline">support@averioncareers.com</a>
+                    📩 Feel free to mail us for any enquiries — <a href="mailto:career@averioncareers.com" className="text-purple-500 hover:underline">career@averioncareers.com</a>
                 </motion.p>
 
             </div>

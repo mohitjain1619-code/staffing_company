@@ -73,7 +73,7 @@ const ContactContent = () => {
                                 </div>
                                 <div>
                                     <h4 className="text-white font-bold text-lg mb-1">Email Us</h4>
-                                    <a href="mailto:Inquiry@averioncareers.com" className="text-gray-400 hover:text-purple-400 transition-colors">Inquiry@averioncareers.com</a>
+                                    <a href="mailto:contact@averioncareers.com" className="text-gray-400 hover:text-purple-400 transition-colors">contact@averioncareers.com</a>
                                 </div>
                             </div>
 
